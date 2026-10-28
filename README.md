@@ -23,3 +23,17 @@ SAP Analytics Cloud · KPI Reporting · Business Analytics · Dashboard Design �
 **Documentation in progress.** Screenshots, report content and a fuller explanation of the dashboard will be added once the original assignment materials are available and checked for sharing restrictions.
 
 *This is an academic case study, not a dashboard produced for SAP or an external employer.*
+
+## Dashboard evidence and insights
+
+The supplied three-page SAP Analytics Cloud project report documents a dashboard designed for a sales manager using the Global Bike teaching case.
+
+- **2019 contribution margin: 44.57%**, below the case-study's **46% internal target**.
+- **2019 contribution amount: approximately $69.48 million**.
+- **Germany:** approximately $90.12m revenue and 47.92% margin.
+- **United States:** approximately $65.79m revenue and 39.98% margin.
+- Analysis covers regional performance, monthly sales, top customers and product profitability.
+
+**Business recommendation:** investigate the weaker US margin, review product-category profitability and plan capacity for demand peaks.
+
+The Word report contains annotated screenshots and explanatory discussion. The original SAP story may require institutional access; this is an educational case study, not commercial company results.
