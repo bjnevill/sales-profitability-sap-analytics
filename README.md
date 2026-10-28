@@ -1,39 +1,36 @@
-# Sales Performance & Profitability — SAP Analytics Cloud
+# Sales Performance and Profitability in SAP Analytics Cloud
 
-**Ngee Ann Polytechnic · Diploma in Data Science · Intelligent Enterprise Systems · Academic coursework (2026)**
+Individual academic dashboard · Ngee Ann Polytechnic · Intelligent Enterprise Systems · Semester 3 folder, 2026 coursework
 
-A business analytics dashboard developed using **SAP Analytics Cloud** and the **Global Bike** case study, focused on management reporting and profitability.
+## Business problem
 
-## Business questions
+Help a sales manager identify which countries, customers and product categories drive contribution and where profitability needs investigation in the Global Bike teaching case.
 
-- Where is sales performance strongest across countries?
-- Which customers and product categories contribute most to business results?
-- How do contribution margins and profitability differ across business segments?
+![SAP profitability dashboard](assets/profitability-dashboard.png)
 
-## Analysis scope
+## Methodology and tools
 
-The coursework dashboard examined sales performance, contribution margin, customer value and product profitability to support business decisions.
+Built a SAP Analytics Cloud dashboard using the teaching case's sales model. A top-down layout connects contribution KPIs with country performance, monthly sales, customer contribution and product revenue versus margin. Date, sales organisation, customer and division filters plus linked analysis support investigation. The report explains the choice of visuals and business actions.
 
-## Skills
+## Key findings from the submitted report
 
-SAP Analytics Cloud · KPI Reporting · Business Analytics · Dashboard Design · Data Storytelling
+| Measure | Reported value / finding |
+| --- | --- |
+| 2019 contribution margin | 44.57%, below the internal case target of 46% |
+| 2019 contribution amount | Approximately $69.48 million |
+| Germany | Approximately $90.12m revenue; 47.92% contribution margin |
+| United States | Approximately $65.79m revenue; 39.98% contribution margin |
 
-## Project files
+The report recommends investigating the US margin, preparing capacity for the April–June increase and reviewing high-revenue products below target. These are case-study recommendations, not implemented business improvements.
 
-**Documentation in progress.** Screenshots, report content and a fuller explanation of the dashboard will be added once the original assignment materials are available and checked for sharing restrictions.
+## Files and access
 
-*This is an academic case study, not a dashboard produced for SAP or an external employer.*
+- [Original report narrative](reports/submitted-report.md), extracted to Markdown with student number and institutional tenant URL removed.
+- `assets/profitability-dashboard.png`: unchanged dashboard image extracted from the report.
+- [Validation and missing artefacts](docs/VALIDATION.md).
 
-## Dashboard evidence and insights
+The original SAC story/export and source model were not present in the allowed folders. Interactive reproduction requires an authorised SAC tenant, the Global Bike teaching model and appropriate story permissions. The screenshot is a static preview; it is not an interactive hosted dashboard. No institutional login or tenant URL is published.
 
-The supplied three-page SAP Analytics Cloud project report documents a dashboard designed for a sales manager using the Global Bike teaching case.
+## Limitations and finance relevance
 
-- **2019 contribution margin: 44.57%**, below the case-study's **46% internal target**.
-- **2019 contribution amount: approximately $69.48 million**.
-- **Germany:** approximately $90.12m revenue and 47.92% margin.
-- **United States:** approximately $65.79m revenue and 39.98% margin.
-- Analysis covers regional performance, monthly sales, top customers and product profitability.
-
-**Business recommendation:** investigate the weaker US margin, review product-category profitability and plan capacity for demand peaks.
-
-The Word report contains annotated screenshots and explanatory discussion. The original SAP story may require institutional access; this is an educational case study, not commercial company results.
+Contribution margin is not the same as net profit or gross margin. The 46% line is an internal case target, not an industry benchmark. Sales seasonality and regional differences do not prove their causes; promotion, stock, price and cost data would be needed. This academic project demonstrates KPI interpretation and management reporting useful for finance operations and analytics.
